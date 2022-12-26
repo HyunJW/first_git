@@ -1,0 +1,2 @@
+새로운 프로젝트는 first project폴더 밖에서 새롭게 폴더를 만들고
+git init으로 생성

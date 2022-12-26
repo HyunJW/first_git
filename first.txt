@@ -1,5 +1,0 @@
-Hello world!
-git add .
-git commit -m "히스토리 이름 아무거나"
-git push origin master
-이 과정의 반복!
